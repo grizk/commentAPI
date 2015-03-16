@@ -1,6 +1,6 @@
 {
-	"name": "ghassan/php-multi-level-comments",
-	"description": "A multi-level comment system, that allows infinite level comment and replies",
+	"name": "ghassan/commentAPI",
+	"description": "A multi-level comment system API",
 	"keywords": ["comments","multi level comments","infinite replies"],
 	"authors": [{
 			"name": "Ghassan Rizk",
